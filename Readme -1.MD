@@ -235,3 +235,7 @@ Prometheus | Grafana | SonarQube | Veracode | Metasploit
 
 
 ✨ *“Automate everything, secure everything, scale everywhere.”*  
+## 🐍 GitHub Contribution Snake  
+
+![GitHub Snake Light](https://github.com/Raidi13/Raidi13/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://github.com/Raidi13/Raidi13/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
