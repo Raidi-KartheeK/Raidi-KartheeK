@@ -1,6 +1,9 @@
 ![alt text](<Blue Green Geometric Company LinkedIn Banner.png>)
 
 
+# 👋 Hi, I'm Raidi Kartheek  
+
+### 🚀  DevOps Engineer at BIQ Solutions Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  
 ---
 
 ## 🛠️ Tech Toolbox  
@@ -46,9 +49,7 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 
 
 
-# 👋 Hi, I'm Raidi Kartheek  
 
-### 🚀 Senior DevOps Engineer | Cloud | Automation | Kubernetes | Terraform  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raidi13&label=Profile%20Views&color=blue&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raidi-kartheek/)  
