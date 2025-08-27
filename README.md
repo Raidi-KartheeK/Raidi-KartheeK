@@ -9,27 +9,17 @@
 ## 🛠️ Tech Toolbox  
 
 Cloud: AWS
-
 OS: Linux, Windows
-
 CI/CD: GitHub Actions, Jenkins
-
 SCM: GitHub
-
 IaC: Terraform, Cloudformation 
-
 Containers: Docker, Kubernetes 
-
 Security & Scanning: SonarQube 
-
 Arifactory: Nexus, JFrog
-
 Scripting: Bash, Shell, Python
-
 Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 ---
-
 
 ## 🔭 What I'm Working On  
 🛠️ Build and manage infrastructure on AWS and Azure using Terraform for secure, repeatable provisioning  
@@ -50,7 +40,7 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 
 ---
-# 💼 Career Snapshot
+# 💼 Career Overview
 
 ### 🏢 BIQ Solutions (Payroll) – Client Engagements  
 
