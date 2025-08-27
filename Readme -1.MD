@@ -113,8 +113,11 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 ## 📈 GitHub Stats  
 
 ![Raidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raidi13&show_icons=true&theme=tokyonight)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi13&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=Raidi13&theme=tokyonight&hide_border=true)
+
 
 --- 
 
