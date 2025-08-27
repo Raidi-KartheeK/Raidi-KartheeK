@@ -29,7 +29,7 @@ Scripting: Bash, Shell, Python
 Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 ---
----
+
 
 ## 🔭 What I'm Working On  
 🛠️ Build and manage infrastructure on AWS and Azure using Terraform for secure, repeatable provisioning  
@@ -158,7 +158,7 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 
 
 
-# 👋 Hi, I'm Raidi Kartheek  
+<!-- # 👋 Hi, I'm Raidi Kartheek  
 
 ### 🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD  
 
@@ -228,7 +228,7 @@ Prometheus | Grafana | SonarQube | Veracode | Metasploit
 - [⚡ Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
 
 ---
-## 📊 My GitHub Activity  
+## 📊 My GitHub Activity   -->
 
 
 ✨ *“Automate everything, secure everything, scale everywhere.”*  
