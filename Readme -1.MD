@@ -86,44 +86,7 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 
 --- -->
 
-# 👋 Hi, I'm Raidi Kartheek  
 
-### 🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD  
-
-
-
-## 🤝 What I’m Looking For  
-- Collaboration on **Cloud-native projects**  
-- Building **DevSecOps pipelines**  
-- Contributing to **open-source DevOps tools**  
-
----
-
-## 🌱 Currently Learning  
-- **Azure Cloud** and multi-cloud strategies  
-- Advanced **Kubernetes networking** & service mesh (Istio/Linkerd)  
-- Ansible **roles & automation**  
-
----
-
-## 💬 Ask Me About  
-- AWS Infrastructure (EC2, VPC, RDS, IAM, Scaling)  
-- Terraform Modules & Infrastructure as Code  
-- Jenkins CI/CD pipelines & GitHub Actions  
-- Kubernetes, Helm & Docker best practices  
-
----
-
-
-
-### ✍️ Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [DevSecOps Strategies for Modern Enterprises](https://medium.com/@Raidi13)  
-- [Kubernetes Deployment Automation with Helm](https://medium.com/@Raidi13)  
-- [Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
-<!-- BLOG-POST-LIST:END -->  
-
----
  
  ### 📈 GitHub Stats  
 
