@@ -84,7 +84,6 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats)
 
 
-
 --- 
 
 ## ✍️ Blog Posts (Medium)  
