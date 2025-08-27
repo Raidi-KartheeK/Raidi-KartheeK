@@ -1,8 +1,47 @@
 ![alt text](<Blue Green Geometric Company LinkedIn Banner.png>)
 
+
+---
+
+## 🛠️ Tech Toolbox  
+
+Cloud: AWS
+OS: Linux, Windows
+CI/CD: GitHub Actions, Jenkins
+SCM: GitHub
+IaC: Terraform, Cloudformation 
+Containers: Docker, Kubernetes 
+Security & Scanning: SonarQube 
+Arifactory: Nexus, JFrog
+Scripting: Bash, Shell, Python
+Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
+
+---
+---
+
+## 🔭 What I'm Working On  
+🛠️ Build and manage infrastructure on AWS and Azure using Terraform for secure, repeatable provisioning  
+
+☸️ Operate Kubernetes clusters with Helm, ensuring scalable and reliable application deployments  
+
+🚀 Design high-performance CI/CD pipelines using GitHub Actions and Jenkins, reducing delivery friction and deployment time  
+
+📃️ Manage codebases and collaboration with GitHub, enabling streamlined version control and peer reviews  
+
+🤖 Automate infrastructure and operational tasks with Linux, Shell scripting, and Python, improving speed and consistency  
+
+🧪 Enforce code quality with SonarQube and manage artifacts with Nexus & JFrog Artifactory  
+
+🔐 Secure cloud environments using IAM, RBAC, and Key Vaults, ensuring compliance and strong access control  
+
+📈 Ensure observability and performance with Prometheus, Grafana, Splunk, Dynatrace, and CloudWatch, minimizing downtime  
+
+
+---
 <!-- 👋 Hi, I'm Raidi kartheek
 Devops Engineer  @ BIQ Solutions Pvt.Ltd
 🚀 DevOps • Cloud Engineer | AWS| CI/CD | Kubernetes | Terraform 
+
 
 
 
@@ -41,15 +80,7 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 
 ### 🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD  
 
----
 
-## 🔭 What I'm Working On  
-- Automating **infrastructure provisioning** using Terraform & Ansible  
-- Building **scalable CI/CD pipelines** with Jenkins & GitHub Actions  
-- Managing **Kubernetes clusters** with Helm, ArgoCD & GitOps  
-- Implementing **Shift Left Security** with SonarQube, Veracode & ECR Scanning  
-
----
 
 ## 🤝 What I’m Looking For  
 - Collaboration on **Cloud-native projects**  
@@ -73,23 +104,6 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 
 ---
 
-## ⚡ Fun Fact  
-I can spin up a full-stack environment with CI/CD in under **30 minutes** 🚀  
-
----
-
-## 🛠️ Tech Toolbox  
-
-Cloud: AWS
-OS: Linux, Windows
-CI/CD: GitHub Actions, Jenkins
-SCM: GitHub
-IaC: Terraform, Cloudformation 
-Containers: Docker, Kubernetes 
-Security & Scanning: SonarQube 
-Arifactory: Nexus, JFrog
-Scripting: Bash, Shell, Python
-Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 
 ### ✍️ Latest Blog Posts  
