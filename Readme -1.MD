@@ -146,6 +146,17 @@ I can spin up a full-stack environment with CI/CD in under **30 minutes** 🚀
   <img src="https://streak-stats.demolab.com?user=Raidi13&theme=radical&hide_border=true" height="180" />
 </p>  
 
+
+<!-- GitHub Stats (includes all commits; private needs self-host) -->
+![Raidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raidi13&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&custom_title=Raidi%27s%20GitHub%20Stats&v=1)
+
+<!-- Top Languages (public repos only) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&langs_count=8&hide_border=true&v=1)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Raidi13&hide_border=true&v=1)
+
+
 ---
 
 ## ✍️ Blog Posts (Medium)  
