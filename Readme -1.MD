@@ -77,7 +77,8 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Raidi13&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi13&theme=tokyonight&hide_border=true)
+
 
 
 
