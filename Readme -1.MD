@@ -50,6 +50,26 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 
 ---
+# 💼 Career Snapshot
+
+### 🏢 BIQ Solutions (Payroll) – Client Engagements  
+
+🔹 ** Veeva Systems **  
+- Built CI/CD pipelines with Jenkins, GitHub Actions, and Helm for Kubernetes microservices.  
+- Automated infrastructure provisioning with Terraform & Ansible for scalability and consistency.  
+- Implemented observability with Prometheus & Grafana for proactive monitoring.  
+
+🔹 ** Verizon **  
+- Designed AWS-native solutions with EKS, RDS, and Terraform modules.  
+- Led Helm-based Kubernetes deployments with blue/green strategies ensuring zero downtime.  
+- Enforced DevSecOps with SonarQube, Veracode, Metasploit, and AWS ECR scanning.  
+
+🔹 ** CIG **  
+- Migrated legacy workloads to AWS using Ansible-based AMI automation.  
+- Designed secure VPC, IAM, and networking strategies for compliance.  
+- Reduced release cycles by 30% via automated CI/CD with Jenkins & GitHub Actions.  
+
+----
 <!-- 👋 Hi, I'm Raidi kartheek
 Devops Engineer  @ BIQ Solutions Pvt.Ltd
 🚀 DevOps • Cloud Engineer | AWS| CI/CD | Kubernetes | Terraform 
