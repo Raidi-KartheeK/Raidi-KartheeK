@@ -39,11 +39,9 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 🧪 Enforce code quality with SonarQube and manage artifacts with Nexus & JFrog Artifactory  
 🔐 Secure cloud environments using IAM, RBAC, and Key Vaults, ensuring compliance and strong access control  
 📈 Ensure observability and performance with Prometheus, Grafana, Splunk, Dynatrace, and CloudWatch, minimizing downtime  
-
 ---
 # 💼 Career Snapshot
 ### 🏢 BIQ Solutions (Payroll) – Client Engagements  
-
 
 🔹Veeva Systems 
 - Built CI/CD pipelines with Jenkins, GitHub Actions, and Helm for Kubernetes microservices.  
