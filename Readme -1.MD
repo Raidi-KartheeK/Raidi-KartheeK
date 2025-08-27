@@ -231,5 +231,12 @@ Prometheus | Grafana | SonarQube | Veracode | Metasploit
 - [⚡ Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
 
 ---
+## 📊 My GitHub Activity  
+
+![GitHub Snake](https://github.com/Raidi13/Raidi13/blob/output/github-contribution-grid-snake.svg)  
+![Raidi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raidi13&theme=react-dark&hide_border=true&area=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Raidi13&theme=tokyonight&hide_border=true)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Raidi13&theme=radical&no-frame=true&margin-w=15)  
+
 
 ✨ *“Automate everything, secure everything, scale everywhere.”*  
