@@ -37,21 +37,6 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 
 --- -->
 
-### ✍️ Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [DevSecOps Strategies for Modern Enterprises](https://medium.com/@Raidi13)  
-- [Kubernetes Deployment Automation with Helm](https://medium.com/@Raidi13)  
-- [Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
-<!-- BLOG-POST-LIST:END -->  
-
----
-
-💡 *“Automate everything, secure everything, scale everywhere.”* 🚀  
-
-
-
-
-
 # 👋 Hi, I'm Raidi Kartheek  
 
 ### 🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD  
@@ -106,6 +91,16 @@ Arifactory: Nexus, JFrog
 Scripting: Bash, Shell, Python
 Monitoring: Dynatrace, Prometheus, Grafana,CloudWatch
 
+
+### ✍️ Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- [DevSecOps Strategies for Modern Enterprises](https://medium.com/@Raidi13)  
+- [Kubernetes Deployment Automation with Helm](https://medium.com/@Raidi13)  
+- [Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
+<!-- BLOG-POST-LIST:END -->  
+
+---
+ 
 ## 📊 GitHub Stats  
 
 <p align="center">
