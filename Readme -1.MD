@@ -157,3 +157,79 @@ I can spin up a full-stack environment with CI/CD in under **30 minutes** 🚀
 ---
 
 ✨ *“Automate everything, secure everything, scale everywhere.”*  
+
+
+
+
+# 👋 Hi, I'm Raidi Kartheek  
+
+### 🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD  
+
+---
+
+## 🔭 Currently Working On  
+- Automating **AWS infrastructure** with Terraform & Ansible  
+- Building **end-to-end CI/CD pipelines** with Jenkins & GitHub Actions  
+- Managing **Kubernetes deployments** using Helm & ArgoCD  
+- Implementing **DevSecOps practices** with SonarQube, Veracode & ECR Scanning  
+
+---
+
+## 🤝 Open to Collaborate On  
+- Cloud-native projects (AWS, Azure, GCP)  
+- Kubernetes & microservices deployments  
+- DevSecOps automation and best practices  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced **Azure Cloud** (AKS, IAM, Networking)  
+- Multi-cloud automation & hybrid cloud strategies  
+- Service mesh with **Istio / Linkerd**  
+
+---
+
+## 💬 Ask Me About  
+- 🚀 AWS Cloud (EC2, VPC, IAM, RDS, Auto Scaling)  
+- ⚙️ Terraform Modules & Infrastructure as Code  
+- 🛠️ Jenkins & GitHub Actions CI/CD  
+- ☸️ Kubernetes, Helm, Docker  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Infrastructure as Code**  
+Terraform | Ansible | AWS CloudFormation  
+
+**Cloud Platforms**  
+AWS | Azure (Learning) | GCP (Exploring)  
+
+**CI/CD & Automation**  
+Jenkins | GitHub Actions | ArgoCD | Helm  
+
+**Containers & Orchestration**  
+Docker | Kubernetes | EKS  
+
+**Monitoring & Security**  
+Prometheus | Grafana | SonarQube | Veracode | Metasploit  
+
+---
+
+## 📊 My GitHub by the Numbers  
+
+- 🌐 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Raidi13&query=$.public_repos&label=Repos)  
+- 👥 Followers: ![Followers](https://img.shields.io/github/followers/Raidi13?style=flat)  
+- ⭐ Stars: ![Stars](https://img.shields.io/github/stars/Raidi13?style=flat)  
+
+---
+
+## ✍️ Latest Blog Posts  
+
+- [🚀 DevSecOps Strategies for Modern Enterprises](https://medium.com/@Raidi13)  
+- [☸️ Kubernetes Deployment Automation with Helm](https://medium.com/@Raidi13)  
+- [⚡ Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
+
+---
+
+✨ *“Automate everything, secure everything, scale everywhere.”*  
