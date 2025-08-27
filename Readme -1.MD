@@ -101,7 +101,14 @@ Monitoring: Dynatrace, Prometheus, Grafana,CloudWatch
 
 ---
  
-## 📊 GitHub Stats  
+ ### 📈 GitHub Stats  
+
+![Raidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raidi13&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Raidi13&theme=tokyonight&hide_border=true)  
+
+--- -->
+<!-- ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raidi13&show_icons=true&theme=radical" height="180" />
@@ -113,7 +120,7 @@ Monitoring: Dynatrace, Prometheus, Grafana,CloudWatch
 </p>  
 
 
----
+--- -->
 
 ## ✍️ Blog Posts (Medium)  
 - [🚀 DevSecOps Strategies for Modern Enterprises](https://medium.com/@Raidi13)  
