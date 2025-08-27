@@ -74,3 +74,85 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 
 💡 *“Automate everything, secure everything, scale everywhere.”* 🚀  
 
+
+
+
+
+# 👋 Hi, I'm Raidi Kartheek  
+
+### 🚀 Senior DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD  
+
+---
+
+## 🔭 What I'm Working On  
+- Automating **infrastructure provisioning** using Terraform & Ansible  
+- Building **scalable CI/CD pipelines** with Jenkins & GitHub Actions  
+- Managing **Kubernetes clusters** with Helm, ArgoCD & GitOps  
+- Implementing **Shift Left Security** with SonarQube, Veracode & ECR Scanning  
+
+---
+
+## 🤝 What I’m Looking For  
+- Collaboration on **Cloud-native projects**  
+- Building **DevSecOps pipelines**  
+- Contributing to **open-source DevOps tools**  
+
+---
+
+## 🌱 Currently Learning  
+- **Azure Cloud** and multi-cloud strategies  
+- Advanced **Kubernetes networking** & service mesh (Istio/Linkerd)  
+- Ansible **roles & automation**  
+
+---
+
+## 💬 Ask Me About  
+- AWS Infrastructure (EC2, VPC, RDS, IAM, Scaling)  
+- Terraform Modules & Infrastructure as Code  
+- Jenkins CI/CD pipelines & GitHub Actions  
+- Kubernetes, Helm & Docker best practices  
+
+---
+
+## ⚡ Fun Fact  
+I can spin up a full-stack environment with CI/CD in under **30 minutes** 🚀  
+
+---
+
+## 🛠️ Tech Toolbox  
+
+**Cloud & IaC**  
+`AWS` `Terraform` `Ansible` `CloudFormation`  
+
+**DevOps & CI/CD**  
+`Jenkins` `GitHub Actions` `Argo CD` `Helm`  
+
+**Containers & Orchestration**  
+`Docker` `Kubernetes` `EKS`  
+
+**Monitoring & Security**  
+`Prometheus` `Grafana` `SonarQube` `Veracode` `Metasploit`  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raidi13&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&theme=radical" height="180" />
+</p>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raidi13&theme=radical&hide_border=true" height="180" />
+</p>  
+
+---
+
+## ✍️ Blog Posts (Medium)  
+- [🚀 DevSecOps Strategies for Modern Enterprises](https://medium.com/@Raidi13)  
+- [⚡ Kubernetes Deployment Automation with Helm](https://medium.com/@Raidi13)  
+- [☁️ Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
+
+---
+
+✨ *“Automate everything, secure everything, scale everywhere.”*  
