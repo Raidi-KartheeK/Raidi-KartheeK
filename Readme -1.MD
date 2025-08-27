@@ -1,6 +1,5 @@
 ![alt text](<Blue Green Geometric Company LinkedIn Banner.png>)
 
-
 # 👋 Hi, I'm Raidi Kartheek  
 
 ## 🚀  DevOps Engineer at BIQ Solutions Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  | CI-CD
@@ -31,29 +30,20 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 ---
 
-
 ## 🔭 What I'm Working On  
 🛠️ Build and manage infrastructure on AWS and Azure using Terraform for secure, repeatable provisioning  
-
 ☸️ Operate Kubernetes clusters with Helm, ensuring scalable and reliable application deployments  
-
 🚀 Design high-performance CI/CD pipelines using GitHub Actions and Jenkins, reducing delivery friction and deployment time  
-
 📃️ Manage codebases and collaboration with GitHub, enabling streamlined version control and peer reviews  
-
 🤖 Automate infrastructure and operational tasks with Linux, Shell scripting, and Python, improving speed and consistency  
-
 🧪 Enforce code quality with SonarQube and manage artifacts with Nexus & JFrog Artifactory  
-
 🔐 Secure cloud environments using IAM, RBAC, and Key Vaults, ensuring compliance and strong access control  
-
 📈 Ensure observability and performance with Prometheus, Grafana, Splunk, Dynatrace, and CloudWatch, minimizing downtime  
-
 
 ---
 # 💼 Career Snapshot
-
 ### 🏢 BIQ Solutions (Payroll) – Client Engagements  
+
 
 🔹Veeva Systems 
 - Built CI/CD pipelines with Jenkins, GitHub Actions, and Helm for Kubernetes microservices.  
@@ -84,7 +74,6 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats) -->
 
-
 --- 
 
 ## ✍️ Blog Posts (Medium)  
@@ -99,3 +88,4 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 ---
 ✨ *“Automate everything, secure everything, scale everywhere.”*  
+
