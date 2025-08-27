@@ -1,6 +1,6 @@
 ![alt text](<Blue Green Geometric Company LinkedIn Banner.png>)
 
-👋 Hi, I'm Raidi kartheek
+<!-- 👋 Hi, I'm Raidi kartheek
 Devops Engineer  @ BIQ Solutions Pvt.Ltd
 🚀 DevOps • Cloud Engineer | AWS| CI/CD | Kubernetes | Terraform 
 
@@ -35,7 +35,7 @@ Devops Engineer  @ BIQ Solutions Pvt.Ltd
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raidi13&theme=tokyonight&hide_border=true)  
 
----
+--- -->
 
 ### ✍️ Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
