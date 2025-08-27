@@ -41,6 +41,7 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 🔐 Secure cloud environments using IAM, RBAC, and Key Vaults, ensuring compliance and strong access control  
 📈 Ensure observability and performance with Prometheus, Grafana, Splunk, Dynatrace, and CloudWatch, minimizing downtime  
 ---
+
 # 💼 Career Snapshot
 ### 🏢 BIQ Solutions (Payroll) – Client Engagements  
 
