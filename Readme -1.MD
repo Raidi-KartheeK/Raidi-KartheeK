@@ -9,6 +9,7 @@
 ## 🛠️ Tech Toolbox  
 
 Cloud: AWS
+
 OS: Linux, Windows
 CI/CD: GitHub Actions, Jenkins
 SCM: GitHub
