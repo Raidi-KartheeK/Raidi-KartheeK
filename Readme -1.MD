@@ -79,7 +79,10 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats)
  
- https://streak-stats.demolab.com/?user=Raidi-Kartheek&theme=tokyonight
+[![GitHub Streak](https://streak-stats.vercel.app/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 --- 
