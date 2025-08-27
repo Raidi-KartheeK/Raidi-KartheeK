@@ -54,17 +54,17 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 ### 🏢 BIQ Solutions (Payroll) – Client Engagements  
 
-🔹 ** Veeva Systems **  
+🔹Veeva Systems 
 - Built CI/CD pipelines with Jenkins, GitHub Actions, and Helm for Kubernetes microservices.  
 - Automated infrastructure provisioning with Terraform & Ansible for scalability and consistency.  
 - Implemented observability with Prometheus & Grafana for proactive monitoring.  
 
-🔹 ** Verizon **  
+🔹Verizon
 - Designed AWS-native solutions with EKS, RDS, and Terraform modules.  
 - Led Helm-based Kubernetes deployments with blue/green strategies ensuring zero downtime.  
 - Enforced DevSecOps with SonarQube, Veracode, Metasploit, and AWS ECR scanning.  
 
-🔹 ** CIG **  
+🔹CIG  
 - Migrated legacy workloads to AWS using Ansible-based AMI automation.  
 - Designed secure VPC, IAM, and networking strategies for compliance.  
 - Reduced release cycles by 30% via automated CI/CD with Jenkins & GitHub Actions.  
@@ -77,7 +77,8 @@ Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=Raidi13&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-raidi-kartheek.vercel.app/?user=Raidi13&theme=tokyonight&hide_border=true)
+
 
 --- 
 
