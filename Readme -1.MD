@@ -37,6 +37,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 🧪 Enforce code quality with SonarQube and manage artifacts with Nexus & JFrog Artifactory  
 🔐 Secure cloud environments using IAM, RBAC, and Key Vaults, ensuring compliance and strong access control  
 📈 Ensure observability and performance with Prometheus, Grafana, Splunk, Dynatrace, and CloudWatch, minimizing downtime  
+
 ---
 
 # 💼 Career Snapshot
