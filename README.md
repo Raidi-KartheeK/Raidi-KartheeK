@@ -5,7 +5,7 @@
 ## 🚀  DevOps Engineer at BIQ Solutions Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  | CI-CD
 ---
 
-I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, specializing in:  
+I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, specializing in
 - ⚡ Building scalable, secure, and highly available cloud platforms  
 - 🔄 Automating infrastructure with **Terraform & Ansible**  
 - 🐳 Orchestrating containerized microservices with **Kubernetes (EKS)** & Helm  
@@ -44,7 +44,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 🤖 Automate infrastructure and operational tasks with Linux, Shell scripting, and Python, improving speed and consistency  
 🧪 Enforce code quality with SonarQube and manage artifacts with Nexus & JFrog Artifactory  
 🔐 Secure cloud environments using IAM, RBAC, and Key Vaults, ensuring compliance and strong access control  
-📈 Ensure observability and performance with Prometheus, Grafana, Splunk, Dynatrace, and CloudWatch, minimizing downtime  
+📈 Ensure observability and performance with Prometheus, Grafana, and CloudWatch, minimizing downtime  
 
 ---
 
