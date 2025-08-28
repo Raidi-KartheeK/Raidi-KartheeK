@@ -14,7 +14,6 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 
 ---
 ## 🛠️ Tech Toolbox  
-
 •	Cloud: AWS
 •	OS: Linux, Windows
 •	CI/CD: GitHub Actions, Jenkin
