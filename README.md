@@ -79,6 +79,9 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
  
 [![GitHub Streak](https://streak-stats.vercel.app/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats) -->
 
 --- 
