@@ -14,6 +14,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 
 ---
 ## 🛠️ Tech Toolbox  
+
 •	Cloud: AWS
 •	OS: Linux, Windows
 •	CI/CD: GitHub Actions, Jenkin
@@ -24,7 +25,6 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 •	Arifactory: Nexus, JFrog
 •	Scripting: Bash, Shell, Python
 •	Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
-
 
 ---
 
@@ -58,6 +58,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
   - Designed secure **VPC, IAM, and networking**  
   - Reduced release cycles by **30%** with CI/CD automation  
 
+
 ----
 
 ## 📈 GitHub Stats  
@@ -78,14 +79,17 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 - [🚀 DevSecOps Strategies for Modern Enterprises](https://medium.com/@Raidi13)  
 - [⚡ Kubernetes Deployment Automation with Helm](https://medium.com/@Raidi13)  
 - [☁️ Terraform Modules for AWS Infrastructure](https://medium.com/@Raidi13)  
+
+
+
 ---
 
 ### 🐍 GitHub Contribution Snake
 ![snake gif](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.gif)
 ![snake svg](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+<!-- 
  ## 🐍 GitHub Contribution Snake  
-![snake gif](https://github.com/Raidi-Kartheek/Raidi-Kartheek/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Raidi-Kartheek/Raidi-Kartheek/blob/output/github-contribution-grid-snake.svg) -->
 
 
 ---
