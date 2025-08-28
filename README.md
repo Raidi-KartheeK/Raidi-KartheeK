@@ -1,6 +1,7 @@
-![alt text](<Blue Green Geometric Company LinkedIn Banner.png>)
+<img width="1584" height="396" alt="Blue Green Geometric Company LinkedIn Banner" src="https://github.com/user-attachments/assets/c725e994-9cc2-458a-b67f-45acfdbda1d4" />
 
 # 👋 Hi, I'm Raidi Kartheek  
+
 
 ## 🚀  DevOps Engineer at BIQ Solutions Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  | CI-CD
 ---
