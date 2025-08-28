@@ -24,7 +24,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 •	Security & Scanning: SonarQube 
 •	Arifactory: Nexus, JFrog
 •	Scripting: Bash, Shell, Python
-•	Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
+•	Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch,..
 
 ---
 
