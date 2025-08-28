@@ -26,7 +26,6 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 •	Scripting: Bash, Shell, Python
 •	Monitoring: Dynatrace, Prometheus, Grafana, CloudWatch
 
-
 ---
 
 ## 🔭 What I'm Working On  
