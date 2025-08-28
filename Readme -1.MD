@@ -43,17 +43,17 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 # 💼 Career Snapshot
 ### 🏢 BIQ Solutions – Client Engagements  
 
-– Veeva Systems  
+– **Veeva Systems** 
 - Built CI/CD pipelines with **Jenkins, GitHub Actions, Helm** for microservices  
 - Automated provisioning with **Terraform & Ansible**  
 - Implemented observability using **Prometheus & Grafana**   
 
-- Verizon
+- **Verizon**
 - Designed AWS-native solutions with EKS, RDS, and Terraform modules.  
 - Led Helm-based Kubernetes deployments with blue/green strategies ensuring zero downtime.  
 - Enforced DevSecOps with SonarQube, Veracode, Metasploit, and AWS ECR scanning.  
 
-- CIG*
+- **CIG**
 - Migrated workloads using **Ansible automation**  
 - Designed secure **VPC, IAM, and networking**  
 - Reduced release cycles by **30%** with CI/CD automation  
