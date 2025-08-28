@@ -14,6 +14,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 - 🚀 Designing CI/CD pipelines with **Jenkins & GitHub Actions**  
 - 🔐 Enforcing **DevSecOps practices** for security, scalability, and compliance  
 
+
 ---
 ## 🛠️ Tech Toolbox  
 
