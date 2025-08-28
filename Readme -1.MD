@@ -7,6 +7,12 @@
 
 I’m a passionate DevOps & Cloud Engineer with 5+ years of IT experience, including 4+ years in AWS DevOps and 1 year in Linux administration, CI/CD, and infrastructure automation. I specialize in building scalable, secure, and highly available cloud platforms, automating infrastructure, and orchestrating containerized microservices using Docker, Kubernetes (EKS), and Helm. I also optimize CI/CD pipelines with Jenkins, integrate security and code quality scans, and implement DevSecOps best practices to ensure reliability, scalability, and faster deployments.
 
+I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, specializing in:  
+- ⚡ Building scalable, secure, and highly available cloud platforms  
+- 🔄 Automating infrastructure with **Terraform & Ansible**  
+- 🐳 Orchestrating containerized microservices with **Kubernetes (EKS)** & Helm  
+- 🚀 Designing CI/CD pipelines with **Jenkins & GitHub Actions**  
+- 🔐 Enforcing **DevSecOps practices** for security, scalability, and compliance  
 
 ---
 ## 🛠️ Tech Toolbox  
@@ -37,22 +43,22 @@ I’m a passionate DevOps & Cloud Engineer with 5+ years of IT experience, inclu
 ---
 
 # 💼 Career Snapshot
-### 🏢 BIQ Solutions (Payroll) – Client Engagements  
+### 🏢 BIQ Solutions – Client Engagements  
 
-🔹Veeva Systems 
-- Built CI/CD pipelines with Jenkins, GitHub Actions, and Helm for Kubernetes microservices.  
-- Automated infrastructure provisioning with Terraform & Ansible for scalability and consistency.  
-- Implemented observability with Prometheus & Grafana for proactive monitoring.  
+– **Veeva Systems**  
+  - Built CI/CD pipelines with **Jenkins, GitHub Actions, Helm** for microservices  
+  - Automated provisioning with **Terraform & Ansible**  
+  - Implemented observability using **Prometheus & Grafana**   
 
-🔹Verizon
-- Designed AWS-native solutions with EKS, RDS, and Terraform modules.  
-- Led Helm-based Kubernetes deployments with blue/green strategies ensuring zero downtime.  
-- Enforced DevSecOps with SonarQube, Veracode, Metasploit, and AWS ECR scanning.  
+- **Verizon**  
+  - Designed AWS-native solutions with EKS, RDS, and Terraform modules.  
+  - Led Helm-based Kubernetes deployments with blue/green strategies ensuring zero downtime.  
+  - Enforced DevSecOps with SonarQube, Veracode, Metasploit, and AWS ECR scanning.  
 
-🔹CIG  
-- Migrated legacy workloads to AWS using Ansible-based AMI automation.  
-- Designed secure VPC, IAM, and networking strategies for compliance.  
-- Reduced release cycles by 30% via automated CI/CD with Jenkins & GitHub Actions.  
+- **CIG**  
+  - Migrated workloads using **Ansible automation**  
+  - Designed secure **VPC, IAM, and networking**  
+  - Reduced release cycles by **30%** with CI/CD automation  
 
 ----
 
@@ -79,6 +85,10 @@ I’m a passionate DevOps & Cloud Engineer with 5+ years of IT experience, inclu
 ### 🐍 GitHub Contribution Snake
 ![snake gif](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.gif)
 ![snake svg](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+ ## 🐍 GitHub Contribution Snake  
+![snake gif](https://github.com/Raidi-Kartheek/Raidi-Kartheek/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 ✨ *“Automate everything, secure everything, scale everywhere.”*  
