@@ -37,7 +37,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 ---
 
 ## 🔭 What I'm Working On  
-🛠️ Build and manage infrastructure on AWS and Azure using Terraform for secure, repeatable provisioning  
+🛠️ Build and manage infrastructure on AWS using Terraform for secure, repeatable provisioning  
 ☸️ Operate Kubernetes clusters with Helm, ensuring scalable and reliable application deployments  
 🚀 Design high-performance CI/CD pipelines using GitHub Actions and Jenkins, reducing delivery friction and deployment time  
 📃️ Manage codebases and collaboration with GitHub, enabling streamlined version control and peer reviews  
