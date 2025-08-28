@@ -43,7 +43,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 # 💼 Career Snapshot
 ### 🏢 BIQ Solutions – Client Engagements  
 
-– **Veeva Systems**  
+–  **Veeva Systems**  
   - Built CI/CD pipelines with **Jenkins, GitHub Actions, Helm** for microservices  
   - Automated provisioning with **Terraform & Ansible**  
   - Implemented observability using **Prometheus & Grafana**   
