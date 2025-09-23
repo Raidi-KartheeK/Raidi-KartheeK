@@ -71,7 +71,7 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 
 ## 📈 GitHub Stats  
   
-  
+![Raidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raidi13&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi13&layout=compact&theme=tokyonight)  
 
