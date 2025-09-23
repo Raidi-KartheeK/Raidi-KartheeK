@@ -99,8 +99,6 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Raidi-Kartheek/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
-![Snake Light](https://raw.githubusercontent.com/Raidi-Kartheek/snk/output/github-snake.svg#gh-light-mode-only)
-![Snake Dark](https://raw.githubusercontent.com/Raidi-Kartheek/snk/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 
