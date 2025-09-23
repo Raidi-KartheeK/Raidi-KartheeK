@@ -95,8 +95,9 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 ---
 
 ### 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.gif)
-![snake svg](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Raidi-Kartheek/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Raidi-Kartheek/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <!-- 
  ## 🐍 GitHub Contribution Snake  
 ![snake gif](https://github.com/Raidi-Kartheek/Raidi-Kartheek/blob/output/github-contribution-grid-snake.svg) -->
