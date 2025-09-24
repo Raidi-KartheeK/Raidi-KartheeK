@@ -100,8 +100,6 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 
 
 
-
-
 <!-- 
  ## 🐍 GitHub Contribution Snake  
 ![snake gif](https://github.com/Raidi-Kartheek/Raidi-Kartheek/blob/output/github-contribution-grid-snake.svg) -->
