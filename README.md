@@ -15,25 +15,19 @@ I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, s
 
 ---
 ## 🛠️ Tech Toolbox  
-•	Cloud: AWS
 
-•	OS: Linux, Windows
+- **Cloud**: AWS  
+- **OS**: Linux, Windows  
+- **CI/CD**: GitHub Actions, Jenkins  
+- **SCM**: GitHub  
+- **IaC**: Terraform, CloudFormation  
+- **Containers**: Docker, Kubernetes  
+- **Security & Scanning**: SonarQube  
+- **Artifactory**: Nexus, JFrog  
+- **Scripting**: Bash, Shell, Python  
+- **Monitoring**: Prometheus, Grafana, CloudWatch  
 
-•	CI/CD: GitHub Actions, Jenkin
 
-•	SCM: GitHub
-
-•	IaC: Terraform, CloudFormation 
-
-•	Containers: Docker, Kubernetes
-
-•	Security & Scanning: SonarQube
-
-•	Arifactory: Nexus, JFrog
-
-•	Scripting: Bash, Shell, Python
-
-•	Monitoring: Prometheus, Grafana, CloudWatch
 
 ---
 
