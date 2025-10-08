@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Raidi Kartheek  
 
 
-## 🚀  DevOps Engineer at BIQ Solutions Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  | CI-CD
+## 🚀  DevOps Engineer at WV Automations Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  | CI-CD
 ---
 
 I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, specializing in
